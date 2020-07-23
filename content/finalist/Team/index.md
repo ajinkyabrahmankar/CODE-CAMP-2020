@@ -1,5 +1,5 @@
 ---
-title: "No ONe"
+title: "No ONe"                
 description: ""
 type: "finalist"
 ---
